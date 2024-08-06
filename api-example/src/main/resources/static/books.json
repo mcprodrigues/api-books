@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "area": "Software Engineering",
+      "image": "https://example.com/clean-code.jpg",
+      "publisher": "Prentice Hall",
+      "publication_year": 2008,
+      "isbn": "978-0132350884"
+    },
+    {
+      "title": "The Pragmatic Programmer: Your Journey To Mastery",
+      "author": "Andrew Hunt and David Thomas",
+      "area": "Software Development",
+      "image": "https://example.com/pragmatic-programmer.jpg",
+      "publisher": "Addison-Wesley",
+      "publication_year": 1999,
+      "isbn": "978-0201616224"
+    },
+    {
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "area": "Theoretical Computer Science",
+      "image": "https://example.com/theory-of-computation.jpg",
+      "publisher": "Cengage Learning",
+      "publication_year": 2012,
+      "isbn": "978-1133187790"
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+      "area": "Software Design",
+      "image": "https://example.com/design-patterns.jpg",
+      "publisher": "Addison-Wesley",
+      "publication_year": 1994,
+      "isbn": "978-0201633610"
+    },
+    {
+      "title": "You Don't Know JS: ES6 & Beyond",
+      "author": "Kyle Simpson",
+      "area": "JavaScript Programming",
+      "image": "https://example.com/you-dont-know-js.jpg",
+      "publisher": "O'Reilly Media",
+      "publication_year": 2015,
+      "isbn": "978-1491924464"
+    }
+  ]
